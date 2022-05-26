@@ -1,0 +1,2 @@
+# CSE327_Final_Project
+This paper aims to provide an analysis of our implementation of a project presented by Jingtong Li and Jesse Murray, supervised by Cenek Albl and Konrad Schindler in the group of Photogrammetry and Remote Sensing, at ETH Zurich. Li et.al's method reconstructs the 3D trajectory of drones (despite unfavorable conditions) and our project builds on their method by implementing our own object tracking and conversion of the  ying trajectories to KML for visualization on Google Earth. (Li et al. 2020)
